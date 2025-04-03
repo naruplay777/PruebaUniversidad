@@ -1,2 +1,2 @@
 "#Git Practica"
-"# Nueva Linea en nueva rama :D"
+"# Nuevo CONFLICTO en nueva rama :D"
